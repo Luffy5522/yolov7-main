@@ -1,0 +1,5 @@
+train: data/Hard_Hat/train/images
+val: data/Hard_Hat/test/images
+
+nc: 3
+names: ['head', 'helmet', 'person']
